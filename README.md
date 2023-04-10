@@ -1,4 +1,4 @@
-# IGM-Signleton
+# IGM-Singleton
 
 ## Usage
 
